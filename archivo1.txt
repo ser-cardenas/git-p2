@@ -2,3 +2,4 @@ primer archivo modified
 new line
 new line 2
 a new modification
+nueva linea al archivo1
